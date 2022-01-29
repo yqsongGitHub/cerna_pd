@@ -1,0 +1,11 @@
+name: ceRNA_PD
+title: ceRNA_shiny
+username:
+account: cerna
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5348448
+bundleId: 5498632
+url: https://cerna.shinyapps.io/cerna_pd/
+when: 1642942825.14107
+lastSyncTime: 1642942825.1411
